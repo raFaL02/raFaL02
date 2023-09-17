@@ -1,10 +1,10 @@
 ## Hey you, I'm Rafael de Lima. 👋
 Sinta-se a vontade para ver meu perfil! 
 
-- 💬 Tenho 28 anos, inglês intermediário e força de vontade para aprender.
-- ✏️ Estudando e noção em HTML, CSS, JS um pouco de React e começando a ver sobre Node.js
-- 💖 Apaixonado por tecnologia desde sempre.
-- 🌱 Em busca da minha primeira vaga na área de programação
+- 💬 I'm 28 years old, English level intermediate and I'm work hard to learn more and more about software developing.
+- ✏️ Studying and programming in Node.js, JavaScript, TypeScript, PostgreSQL, Express.js and a little knowledge a little bit about React.js and PHP.
+- 💖 I love technology, study developer and programming.
+- 🌱 Seeking my first position in the programming field.
 
 ##
 
