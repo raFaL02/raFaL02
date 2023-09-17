@@ -1,5 +1,5 @@
 ## Hey you, I'm Rafael de Lima. 👋
-Sinta-se a vontade para ver meu perfil! 
+Feel free to view my profile! 
 
 - 💬 I'm 28 years old, English level intermediate and I'm work hard to learn more and more about software developing.
 - ✏️ Studying and programming in Node.js, JavaScript, TypeScript, PostgreSQL, Express.js and a little knowledge a little bit about React.js and PHP.
@@ -17,7 +17,7 @@ Sinta-se a vontade para ver meu perfil!
 ##
 
 <div >
-<p>📫 Entre em contato comigo </p>
+<p>📫 Contact me! =) </p>
  <a href="https://www.linkedin.com/in/orafaellima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="https://www.instagram.com/orafaellima_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://twitter.com/_orafaellima" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  <a href=""
  
 </div>
