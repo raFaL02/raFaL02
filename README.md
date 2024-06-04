@@ -2,9 +2,9 @@
 Feel free to view my profile! 
 
 - 💬 I'm 29 years old, with an intermediate level of English, and I work hard to learn more and more about software development.
-✏️ Studying and programming in Node.js, JavaScript, TypeScript, PostgreSQL, Express.js, with a bit of knowledge in React.js and PHP.
-💖 I love technology, studying development, and programming.
-🌱 Seeking my first position in the programming field.
+- ✏️ Studying and programming in Node.js, JavaScript, TypeScript, PostgreSQL, Express.js, with a bit of knowledge in React.js and PHP.
+- 💖 I love technology, studying development, and programming.
+- 🌱 Seeking my first position in the programming field.
 
 ##
 
