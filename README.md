@@ -1,6 +1,6 @@
 # Olá, eu sou o Rafael de Lima! 👋
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
 Tenho 30 anos, com nível intermediário de inglês, e trabalho duro para aprender cada vez mais sobre desenvolvimento de software.
 - Estudando e programando em Java, Spring Boot, MongoDB, JPA, SQL, PostgreSQL, Docker e com alguns conhecimentos em JavaScript e Node.js.
@@ -30,4 +30,4 @@ Tenho 30 anos, com nível intermediário de inglês, e trabalho duro para aprend
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orafaellima/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devlilrafa/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/devlilrafa)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/devlilrafa)
