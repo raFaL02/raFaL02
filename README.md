@@ -20,7 +20,7 @@ Tenho 30 anos, com nível intermediário de inglês, e trabalho duro para aprend
 
 ## 📊 Estatísticas do GitHub
 
-
+![Rafael de Lima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaL02&show_icons=true&theme=radical)
 
 ## 💻 Linguagens Mais Usadas
 
