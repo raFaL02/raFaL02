@@ -17,11 +17,11 @@ Tenho 30 anos, com nível intermediário de inglês, e trabalho duro para aprend
 
 ## 📊 Estatísticas do GitHub
 
-<div>
-  <a href="https://github.com/raFaL02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raFaL02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raFaL02&layout=compact&langs_count=16&theme=dark"/>
-</div>
+![Rafael de Lima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaL02&show_icons=true&theme=radical)
+
+## 💻 Linguagens Mais Usadas
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaL02&layout=compact&theme=radical)
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orafaellima/)
