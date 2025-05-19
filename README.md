@@ -1,6 +1,6 @@
 ## Olá, eu sou o Rafael de Lima! 👋
 Tenho 30 anos, com nível intermediário de inglês, e trabalho duro para aprender cada vez mais sobre desenvolvimento de software.
-- Estudando e programando em Java, Spring Boot, MongoDB, JPA, SQL, PostgreSQL, Docker e com alguns conhecimentos em JavaScript e Node.js.
+- Estudando e programando em Java, Spring Boot, MongoDB, JPA, SQL, PostgreSQL, Docker e aprimorando conhecimentos em JavaScript, Node.js React entre outros frameworks.
 - Amo tecnologia, estudar desenvolvimento e programar.
 - Buscando minha primeira oportunidade na área de programação.
 
